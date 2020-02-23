@@ -1,0 +1,35 @@
+td {
+    height: 50px;
+    width:50px;
+}
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+  }
+  table td {
+    border: 5px solid black;
+    text-align: center;
+    vertical-align: middle;
+  }
+button {
+  border: none;
+  background-color: white;
+  text-align: center;
+  background-size: cover;
+  height: 55px;
+  width: 55px;
+  border: none;
+  outline:none;
+  padding: 0px;
+
+}
+.button {
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 200px;
+  cursor: pointer;
+}
